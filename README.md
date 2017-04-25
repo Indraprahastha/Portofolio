@@ -1,2 +1,2 @@
 # Portofolio
-Portofolio Pertama dengan Github
+Portofolio Pertama dengan Github.
